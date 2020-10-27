@@ -42,6 +42,7 @@ API (RoR, JWT authorization, PostgreSQL, Capistrano) was ready, but the developm
 ##### Front-end
 
 * Webpack
+* Bootstrap 4
 * React.js
 
 ##### Other
