@@ -33,6 +33,7 @@ API (RoR, JWT authorization, PostgreSQL, Capistrano) was ready, but the developm
 
 * Ruby on Rails
 * Python
+* Java
 * PostgreSQL
 * SQLite
 * Nginx
