@@ -20,8 +20,8 @@ After that I was working in a small telecom company for about a year (remote). M
 While I was working I began to study Ruby and Rails and related tools.
 Later I finally start getting paid for my favorite: coding. 
 
-My first project was an event-focused RESTful website ([showshow.co](https://showshow.co), ask me for password) which wasn't finished because of corona. Customer was a designer, and I did everything related to code and infrastructure. 
-The stack was: RoR, ActiveJob (sidekiq), Turbolinks, PostgreSQL, S3, nginx (passenger), SCSS, Bootstrap, jQuery, React.js, Webpack, Capistrano. 
+My first project was an event-focused RESTful website ([showshow.co](https://showshow.co), ask me for password) development of which is now paused because of corona. Customer was a designer, and I did everything related to code and infrastructure. 
+The stack was: RoR, ActiveJob (sidekiq), Turbolinks, devise, PostgreSQL, S3, nginx (passenger), slim, SCSS, Bootstrap, jQuery, React.js, Webpack, Capistrano. 
 
 Later I was working on an ML project in a bigger team of developers (6 people). We wanted to score flats-for-rent from real estate aggregators like Cian and Avito and provide the best ones to our customers.
 My job was to tie together all the components: data-retrieval service working through Kafka, parser, model, data storage and front-end. I also wrote a lot of code using python for parser and model wrapper.
@@ -44,6 +44,7 @@ API (RoR, JWT authorization, PostgreSQL, Capistrano) was ready, but the developm
 * Webpack
 * Bootstrap 4
 * React.js
+* jQuery
 
 ##### Other
 
