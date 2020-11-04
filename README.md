@@ -18,7 +18,7 @@ Later I entered ITMO University where I was studying for two years. I learned a 
 After that I was working in a small telecom company for about a year (remote). My job was to engineer optical fiber networks.
 
 While I was working I began to study Ruby and Rails and related tools.
-Later I finally start getting paid for my favorite: coding. 
+Later I finally began working as a developer. 
 
 My first project was an event-focused RESTful website ([showshow.co](https://showshow.co), ask me for password) development of which is now paused because of corona. Customer was a designer, and I did everything related to code and infrastructure. 
 The stack was: RoR, ActiveJob (sidekiq), Turbolinks, devise, PostgreSQL, S3, nginx (passenger), slim, SCSS, Bootstrap, jQuery, React.js, Webpack, Capistrano. 
