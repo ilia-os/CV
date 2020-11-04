@@ -25,7 +25,7 @@ The stack was: RoR, ActiveJob (sidekiq), Turbolinks, devise, PostgreSQL, S3, ngi
 
 Later I was working on an ML project in a bigger team of developers (6 people). We wanted to score flats-for-rent from real estate aggregators like Cian and Avito and provide the best ones to our customers.
 My job was to tie together all the components: data-retrieval service working through Kafka, parser, model, data storage and front-end. I also wrote a lot of code using python for parser and model wrapper.
-API (RoR, JWT authorization, PostgreSQL, Capistrano) was ready, but the development stalled because of aggregator's DDOS defense, which we believed we could handle.
+API (RoR, ruby-kafka, JWT authorization, PostgreSQL, Capistrano) was ready, but the development stalled because of aggregator's DDOS defense, which we believed we could handle.
 
 ### Skills
 
