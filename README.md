@@ -11,13 +11,13 @@ Mail: [dev.osipov@gmail.com](mailto:dev.osipov@gmail.com)
 
 Computers are my life. I am interested in a wide range of topics: hardware architecture, operating systems, networking, front and back-end web development, effective databases, embedded systems and more.
 
-When I was studying in a school I self-learned basic python and attended programming courses (There we used Pascal, but mostly we were speaking in abstractions). At that time I began using Ubuntu as my primary OS.
+When I was studying in a school I self-learned basic python and attended programming courses (There we used Pascal, but mostly we were speaking in abstractions). At that time I began using Linux as my primary OS.
 
 Later I entered ITMO University where I was studying for two years. I learned a lot: Java, C, ASM, databases, build and test tools, version control systems (git and svn), linux, patterns, abstractions, programming paradigms and doc reading.
 
 After that I was working in a small telecom company for about a year (remote). My job was to engineer optical fiber networks.
 
-While I was working I began to study Ruby and Rails and related tools.
+While I was working I began to study Ruby on Rails and related tools.
 Later I finally began working as a developer. 
 
 My first project was an event-focused RESTful website ([showshow.co](https://showshow.co), ask me for password) development of which is now paused because of corona. Customer was a designer, and I did everything related to code and infrastructure. 
