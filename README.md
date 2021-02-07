@@ -42,10 +42,11 @@ Now I mostly work in a freelance style and improving various existing websites. 
 
 ##### Front-end
 
+* React.js
+* Next.js
 * SCSS
 * Webpack
 * Bootstrap
-* React.js
 * jQuery
 
 ##### Other
