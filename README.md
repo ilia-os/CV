@@ -29,9 +29,6 @@ Now I am a full-stack developer and I'm looking for an enthusiastic team to lear
 * Java
 * PostgreSQL
 * SQLite
-* Nginx
-* Linux
-* Deploy
 
 ##### Front-end
 
@@ -46,5 +43,9 @@ Now I am a full-stack developer and I'm looking for an enthusiastic team to lear
 ##### Other
 
 * S3
+* Docker
+* Nginx
+* Linux
+* Deploy
 * VCS
 * Hardware
