@@ -76,7 +76,7 @@ Experince working in a team as regular and lead developer.
 * showshow - people-focused event catalog (similar to timepad) powered by Rails, made just before corona kicked in. Featuring feeds, geo-aware search, subscriptions...
 * several freestyle tilda website improvements (for example hooking up GMaps to validate delivery zones + zone editor for food delivery website). Not my idea
 * warehouse - a really huge project for digitalizing internal warehouse operations with 1+ year of development and no QA. With the only developer leaving, my job was to refactor & implement missing backend features
-* [glazok.tv](https://glazok.tv) - art project, my part was to create backend, admin panel and infrastructure
+* glazok - art project, my part was to create backend, admin panel and infrastructure
 * hata.ai - a startup, where we wanted to parse flats-for-rent from major providers such as Avito & Cian, score them and deliver the best ones to our clients. I developed a multiservice architecture for our system, as well as most of its parts (model service, parser service, data service, communicating through kafka). Unfortunately, we were not able to beat major providers DDOS defence...
 * [caravane.earth](https://caravane.earth) - vuejs website support. It features poor integration with some open-source block editor. With no prior QA and crazy code it was fun (though a bit painful) to fix it. Also, I was cleaning up infrastructure and building up a CD
 * [venice.caravane.earth](https://venice.caravane.earth) - mostly devops things & rails configuration for frontend developer
