@@ -19,6 +19,16 @@ Now I am a full-stack developer looking for an enthusiastic team to share knowle
 I often do full-cycle development alone, so I do have experience in many areas related to producing software.
 Experince working in a team as regular and lead developer.
 
+### Features
+
+* Tech-agnostic
+* Fast-learner
+* Always looking for better practices and approaches
+* Setting up consistent & slick dev experience
+* Pretty diagrams
+* Convenient interfaces
+* Secure & reliable servers, continuous delivery
+
 ### Skills
 
 ##### Back-end
@@ -49,16 +59,6 @@ Experince working in a team as regular and lead developer.
 * VCS
 * AWS S3
 * Hardware
-
-### Features
-
-* Tech-agnostic
-* Fast-learner
-* Always looking for better practices and approaches
-* Setting up consistent & slick dev experience
-* Pretty diagrams
-* Convenient interfaces
-* Secure & reliable servers, continuous delivery
 
 ### Interests (areas where I want to grow)
 
