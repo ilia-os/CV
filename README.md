@@ -69,7 +69,7 @@ Experince working in a team as regular and lead developer.
 * DevOps
 * Automated testing
 
-#### Projects
+### Projects
 
 * showshow - people-focused event catalog (similar to timepad) powered by Rails, made just before corona kicked in. Featuring feeds, geo-aware search, subscriptions...
 * several freestyle tilda website improvements (for example hooking up GMaps to validate delivery zones + zone editor for food delivery website). Not my idea
