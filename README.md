@@ -61,7 +61,7 @@ Experince working in a team as regular and lead developer.
 * VCS
 * AWS S3
 * Hardware
-* websocket
+* Websockets
 
 ### Interests (areas where I want to grow)
 
