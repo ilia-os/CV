@@ -16,7 +16,9 @@ When I was studying in a school I self-learned basic python and attended program
 Later I entered ITMO University where I was studying for two years. I learned a lot: Java, C, ASM, databases, build and test tools, version control systems, linux, patterns, abstractions, programming paradigms and doc reading.
 
 Now I am a full-stack developer looking for an enthusiastic team to share knowledge and deliver efficient and flexible software.
+
 I often do full-cycle development alone, so I do have experience in many areas related to producing software.
+
 Experince working in a team as regular and lead developer.
 
 ### Features
