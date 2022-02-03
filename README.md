@@ -83,9 +83,9 @@ Experince working in a team as regular and lead developer.
 * [venice.caravane.earth](https://venice.caravane.earth) - mostly devops things & rails configuration for frontend developer
 * [heenatsalma.earth](https://heenatsalma.earth) - devops things, rails backend development (mostly working on booking engine)
 * foodMP - b2b marketplace for bulk selling edible products. Mostly did next.js frontend, also helped with express.js services with custom frameworks (not sane). It had a major refactoring & redesign after MVP was achieved, with the new team. The moment I fell in love with TS, docker and monorepos. We also introduced new backend service written with nest.js to get rid of unstable main legacy service
-* furnitureMP - fork of the yello project for another customer. b2b marketplace for selling furniture. I'd like to note RocketChat integration through websocket interface implemented by me
+* furnitureMP - fork of the foodMP project for another customer. b2b marketplace for selling furniture. I'd like to note RocketChat integration through websocket interface implemented by me
 * godot game (parking escape clone)
 * visual novel for mobile devices made with react. Featured a next.js-based interface for screenwriter with fully-interactive preview. This system then could bundle the code into cordova app and generate installable artifact (apk). This way we shared the in-game code with the editor
 * bunch of corporate websites (for example, [inpositiv](https://inpositiv.com)). Commonly next.js + strapi. Featuring blog, careers and small slack integration
-* [theissueof](https://staging.theissueof.com) - clothes store. Made on top of shopify using buy-sdk and custom convenient TS abstraction over it
+* [theissueof](https://staging.theissueof.com) - clothes store. Made with next.js on top of shopify using buy-sdk and custom convenient TS abstraction over it
 * internal time tracking software - based on kimai2, heavily modified application with separate frontend written with next.js
