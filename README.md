@@ -1,5 +1,5 @@
 ## Ilia Osipov
-Location: Saint Petersburg
+Location: Tbilisi, Georgia
 
 ### Contact
 
