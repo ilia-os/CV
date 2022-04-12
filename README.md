@@ -87,4 +87,4 @@ I often do full-cycle development alone, so I do have experience in many areas r
 * visual novel for mobile devices made with react. Featured a next.js-based interface for screenwriter with fully-interactive preview. This system then could bundle the code into cordova app and generate installable artifact (apk). This way we shared the in-game code with the editor
 * bunch of corporate websites (for example, [inpositiv](https://inpositiv.com)). Commonly next.js + strapi. Featuring blog, careers and small slack integration
 * [theissueof](https://staging.theissueof.com) - clothes store. Made with next.js on top of shopify using buy-sdk and custom convenient TS abstraction over it
-* internal time tracking software - based on kimai2, heavily modified legacy application
+* internal time tracking software - based on kimai2, heavily modified legacy application. I mostly did UI refactoring
