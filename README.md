@@ -57,19 +57,19 @@ I often do full-cycle development alone, so I do have experience in many areas r
 * Linux
 * Nginx
 * Deploy
-* VCS
+* VCS (git, svn)
 * AWS S3
 * Hardware
 * Websockets
+* Serverless computing
 
 ### Interests (areas where I want to grow)
 
 * Architecture
-* Microservices
 * High-load applications
-* Blockchain, dApps, web3
+* Microservice development
 * DevOps
-* Automated testing
+* Blockchain, dApps, web3
 
 ### Projects
 
