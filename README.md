@@ -13,7 +13,7 @@ Computers are my life. I am interested in a wide range of topics: hardware archi
 
 When I was studying in a school I self-learned basic python and attended programming courses. At that time I began using Linux as my primary OS.
 
-Later I entered ITMO University where I was studying for two years. I learned a lot: Java, C, ASM, databases, build and test tools, version control systems, linux, patterns, abstractions, programming paradigms and doc reading.
+Later I entered ITMO University where I was studying for two years as a software engineer. I learned a lot: Java, C, ASM, databases, build and test tools, version control systems, linux, patterns, abstractions, programming paradigms and doc reading.
 
 Now I am a full-stack developer looking for an enthusiastic team to share knowledge and deliver efficient and flexible software.
 
