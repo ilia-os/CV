@@ -33,10 +33,11 @@ I often do full-cycle development alone, so I do have experience in many areas r
 
 ##### Back-end
 
-* Ruby on Rails
+* Typescript
 * Node
-* Python
-* Java
+* Ruby on Rails
+* Python (basic knowledge)
+* Java (basic knowledge)
 * PostgreSQL
 * SQLite
 * MongoDB
