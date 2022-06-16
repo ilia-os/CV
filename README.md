@@ -86,6 +86,6 @@ I often do full-cycle development alone, so I do have experience in many areas r
 * furnitureMP - fork of the foodMP project for another customer. b2b marketplace for selling furniture. We added interesting features like integration with the open source chat via websockets for customer support
 * A couple simple mobile games made with godot
 * Visual novel for mobile devices made with react. Featured a next.js-based interface for screenwriter with fully-interactive preview. This system then could bundle the code into cordova app and generate installable artifact (apk). The interesting thing was sharing the in-game code with the screenwriter interface
-* bunch of corporate websites (for example, [inpositiv](https://inpositiv.com)). Commonly next.js + strapi. Featuring blog, careers and small slack integration
+* bunch of corporate websites (for example, [inpositiv](https://inpositiv.com), [cogify](https://cogify.io)). Commonly next.js + strapi. Featuring blog, careers and small slack integration
 * [theissueof](https://staging.theissueof.com) - clothes store. Made with next.js on top of shopify using buy-sdk and custom convenient TS abstraction over it
-* internal time tracking software - based on kimai2, heavily modified legacy application. I mostly did UI refactoring
+* internal time tracking software - PHP project based on an old version of kimai2, heavily modified legacy application
