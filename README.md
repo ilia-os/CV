@@ -70,7 +70,6 @@ I often do full-cycle development alone, so I do have experience in many areas r
 * High-load applications
 * Microservice development
 * DevOps
-* Blockchain, dApps, web3
 
 ### Projects
 
