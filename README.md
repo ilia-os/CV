@@ -53,6 +53,7 @@ I often do full-cycle development alone, so I do have experience in many areas r
 
 ##### Other
 
+* Monorepo
 * Docker
 * Linux
 * Nginx
