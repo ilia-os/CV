@@ -9,13 +9,7 @@ Mail: [dev.osipov@gmail.com](mailto:dev.osipov@gmail.com)
 
 ### About
 
-Computers are my life. I am interested in a wide range of topics: hardware architecture, operating systems, networking, front and back-end web development, effective databases, embedded systems and more. My hobby is to repair gadgets like phones and computers.
-
-When I was studying in a school I self-learned basic python and attended programming courses. At that time I began using Linux as my primary OS.
-
-Later I entered ITMO University where I was studying for two years as a software engineer. I learned a lot: Java, C, ASM, databases, build and test tools, version control systems, linux, patterns, abstractions, programming paradigms and doc reading.
-
-Now I am a full-stack developer looking for an enthusiastic team to share knowledge and deliver efficient, flexible software.
+I am a full-stack developer looking for an enthusiastic team to share knowledge and deliver efficient, flexible software.
 
 I often do full-cycle development alone, so I do have experience in many areas related to producing software: requirement analysis, planning & business alignment, architecture, dev managment and many more.
 
